@@ -1,0 +1,17 @@
+D:\2021winter\c#\labs\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+D:\2021winter\c#\labs\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+D:\2021winter\c#\labs\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+D:\2021winter\c#\labs\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+D:\2021winter\c#\labs\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+D:\2021winter\c#\labs\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+D:\2021winter\c#\labs\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csprojAssemblyReference.cache
+D:\2021winter\c#\labs\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+D:\2021winter\c#\labs\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+D:\2021winter\c#\labs\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+D:\2021winter\c#\labs\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+D:\2021winter\c#\labs\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
+D:\2021winter\c#\labs\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
+D:\2021winter\c#\labs\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.GenerateResource.cache
+D:\2021winter\c#\labs\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.FormMain.resources
+D:\2021winter\c#\labs\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.FormPublish.resources
+D:\2021winter\c#\labs\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.FormSubscript.resources
